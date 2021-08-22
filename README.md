@@ -7,7 +7,7 @@
 ---
 ## Credits
 ---
-> the server code for [Snek](https://github.com/taniarascia/snek) was created by [Tania Rascia](https://github.com/taniarascia)
+> [Snek](https://github.com/taniarascia/snek) was created by [Tania Rascia](https://github.com/taniarascia).  For server side code please use this [repository](https://github.com/lighthouse-labs/snek-multiplayer)
 ---
 ## What is Snek Client?
 ---
